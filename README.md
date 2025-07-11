@@ -44,5 +44,3 @@ The main table, `zepto`, contains the following columns:
 ## Requirements
 - PostgreSQL database
 
-## License
-This project is provided for educational and analytical purposes.
